@@ -1,7 +1,7 @@
 using System.Net;
 using System.Net.Sockets;
 
-// Private coding nite challenges output
+// Private coding nite challenge output
 // Author: Don P
 // Date: December 7, 2022
 
